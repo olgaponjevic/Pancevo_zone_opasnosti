@@ -1,0 +1,8 @@
+[general]
+name=Zone opasnosti
+qgisMinimumVersion=3.22
+description=Odredjivanje zona opasnosti oko izvora hazarda i procena ugroženih objekata sa posebno ranjivom populacijom.
+about=Plugin preuzima izvore hazarda i ranjive objekte iz OpenStreetMap-a, formira zone opasnosti zadate veličine, pronalazi ugrožene objekte i rangira žarišta. Zona je kriterijum blizine, a ne model posledica akcidenta
+version=0.1
+author=Olga Ponjević
+email=olgaponjevic@gmail.com

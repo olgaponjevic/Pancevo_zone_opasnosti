@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.qgz~
+*.qgs~
+*.gpkg-shm
+*.gpkg-wal
+.qgis-*
+rezultati_*/
+overpass_*.json
+overpass_*.overpassql
+Thumbs.db
+desktop.ini
+.vscode/
+!podaci/overpass_*.json
+!podaci/overpass_*.overpassql
+*.gpkg
